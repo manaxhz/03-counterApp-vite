@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <CounterApp /> debe de hacer match con el snapshoot 1`] = `
+<div>
+  <div>
+    <h1>
+      CounterApp
+    </h1>
+    <h2>
+       
+      100
+       
+    </h2>
+    <div
+      class=" space-x-1"
+    >
+      <button
+        class="bg-transparent hover:bg-blue-500 text-blue-700 font-semibold hover:text-white py-2 px-4 border border-blue-500 hover:border-transparent rounded"
+      >
+        -1
+      </button>
+      <button
+        aria-label="btn-reset"
+        class="bg-transparent hover:bg-blue-500 text-blue-700 font-semibold hover:text-white py-2 px-4 border border-blue-500 hover:border-transparent rounded"
+      >
+        reset
+      </button>
+      <button
+        class="bg-transparent hover:bg-blue-500 text-blue-700 font-semibold hover:text-white py-2 px-4 border border-blue-500 hover:border-transparent rounded"
+      >
+        +1
+      </button>
+    </div>
+  </div>
+</div>
+`;
